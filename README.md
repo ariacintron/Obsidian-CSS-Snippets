@@ -38,3 +38,7 @@ Examples:
 
 #### Purpose
 Readable, organized Obsidian CSS snippets designed to eliminate confusion (area-feature-mode file naming system)
+
+### Notes
+I’m still learning, but I wanted to share this system in case it helps others.
+Constructive feedback is welcome.
